@@ -107,7 +107,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsPriorHoldingsFloorTexture,
                 link:
                 {
-                    href: 'https://prior.co.jp/discover/',
+                    href: 'https://portal.ehawaii.gov/',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
@@ -134,7 +134,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsOranoFloorTexture,
                 link:
                 {
-                    href: 'https://www.orano.group/experience/innovation/',
+                    href: 'https://www1.nyc.gov/',
                     x: - 4.8,
                     y: - 3.4,
                     halfExtents:
@@ -161,7 +161,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsCitrixRedbullFloorTexture,
                 link:
                 {
-                    href: 'https://thenewmobileworkforce.imm-g-prod.com/',
+                    href: 'https://www.miamigov.com/Home',
                     x: - 4.8,
                     y: - 4.4,
                     halfExtents:
@@ -189,7 +189,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsGleecChatFloorTexture,
                 link:
                 {
-                    href: 'http://gleec.imm-g-prod.com',
+                    href: 'https://sf.gov/',
                     x: - 4.8,
                     y: - 3.4,
                     halfExtents:
@@ -217,7 +217,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsRefletCommunicationFloorTexture,
                 link:
                 {
-                    href: 'https://www.refletcommunication.com',
+                    href: 'https://www.lacity.org/',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
@@ -244,7 +244,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsKepplerFloorTexture,
                 link:
                 {
-                    href: 'https://brunosimon.github.io/keppler/',
+                    href: 'http://www.houstontx.gov/',
                     x: 2.75,
                     y: - 1.1,
                     halfExtents:
