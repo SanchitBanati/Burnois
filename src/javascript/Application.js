@@ -34,7 +34,7 @@ export default class Application
         this.setCamera()
         this.setPasses()
         this.setWorld()
-        this.setTitle()
+        //this.setTitle()
     }
 
     /**
