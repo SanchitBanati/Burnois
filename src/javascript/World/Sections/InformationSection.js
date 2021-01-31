@@ -97,7 +97,7 @@ export default class InformationSection
                 labelTexture: this.resources.items.informationContactGithubLabelTexture
             },
             {
-                href: 'https://www.linkedin.com/in/ayush-gupta-869ba6190/',
+                href: 'https://www.linkedin.com/',
                 labelTexture: this.resources.items.informationContactLinkedinLabelTexture
             },
             {
