@@ -1,8 +1,8 @@
-# Folio 2019
+# BURNOIS
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Then Run the following commands:
 
 ``` bash
 # Just be sure that you've got parcel js on you system
