@@ -17,3 +17,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+Credit to Bruno Simon - https://www.bruno-simon.com/
